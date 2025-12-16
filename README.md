@@ -1,2 +1,2 @@
 # OOJ_LAB
-The repository contains the screen snaps of lab sessions. 
+The repository contains the screen snaps and the Java Programs attempted in the lab sessions. 
